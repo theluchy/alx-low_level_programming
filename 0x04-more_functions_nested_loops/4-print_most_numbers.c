@@ -1,5 +1,3 @@
-s (17 sloc)  221 Bytes
-
 #include "main.h"
 /**
  * print_most_numbers - prints the numbers
